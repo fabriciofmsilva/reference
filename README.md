@@ -224,3 +224,12 @@ false || true; // returns true
 !1; // returns false
 !"foo"; // returns false
 ```
+###Arrays
+
+```javascript
+var myArray = new Array();
+```
+
+```javascript
+var myArray = [];
+```
