@@ -20,7 +20,7 @@ Under construction. Always!
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>A tiny document</title>
+  <title>Document Title</title>
 </head>
 <body>
   <h1>Main heading in my document</h1>
@@ -28,6 +28,13 @@ Under construction. Always!
   <p>Look Ma, I am coding <abbr title="Hyper Text Markup Language">HTML</abbr>.</p>
 </body>
 </html>
+```
+
+###Tags
+
+####a
+```html
+<a class="text" id="text" href="URI" hreflang="language code" rel="link type keyword" target="text">text</a>
 ```
 
 ##2. CSS
