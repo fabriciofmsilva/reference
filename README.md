@@ -1,16 +1,43 @@
 #Reference
 
-##JavaScript
+##1. HTML
+
+###Comment
+```html
+<!-- This is comment text -->
+```
+
+###Doctype
+```html
+<!DOCTYPE html>
+```
+
+###Basic
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>A tiny document</title>
+</head>
+<body>
+  <h1>Main heading in my document</h1>
+  <!-- Note that it is "h" + "1", not "h" + the letters "one" -->
+  <p>Look Ma, I am coding <abbr title="Hyper Text Markup Language">HTML</abbr>.</p>
+</body>
+</html>
+```
+
+##2. CSS
+
+##3. JavaScript
 
 ###Comment
 ####Single-line
-
 ```javascript
 // I'm about to declare a variable and give it a value
 ```
 
 ####Multi-line
-
 ```javascript
 /* I just declared a variable named myVariable and assigned
   the value "Hello, world." to it. I preceded it with a
@@ -526,8 +553,9 @@ el.textContent = "Good morning!";
 
 #####Summary
 
+##5. References
 
-
+- [Mozilla Developer Network](https://developer.mozilla.org)
 
 
 
