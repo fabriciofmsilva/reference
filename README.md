@@ -53,7 +53,7 @@ false
 
 ####Null
 
-####Object
+###Object
 
 ###Operations
 
@@ -226,6 +226,8 @@ false || true; // returns true
 ```
 ###Arrays
 
+####Creating an Array
+
 ```javascript
 var myArray = new Array();
 ```
@@ -233,3 +235,300 @@ var myArray = new Array();
 ```javascript
 var myArray = [];
 ```
+
+####Adding to an Array
+```javascript
+var myArray = [];
+myArray[0] = "Hello";
+myArray[1] = "World";
+```
+
+####Reading from an Array
+```javascript
+var myValue,
+myArray = ["Hello", "World", "I", "am", "an", "array"];
+myValue = myArray[4]; // returns "an"
+```
+
+####Nested Arrays
+```javascript
+var yusuf, dreamers;
+yusuf = [];
+dreamers = ["cobb", "arthur", "ariadne", "saito", "fischer"];
+```
+
+###Objects
+
+####Creating an Object
+```javascript
+var myObject = new Object();
+
+var myObject = {};
+```
+
+####Adding to an Object
+```javascript
+var obj = {};
+obj["firstName"] = "Hugo";
+obj["lastName"] = "Reyes";
+
+var obj = {};
+obj.firstName = "Hugo";
+obj.lastName = "Reyes";
+```
+
+####Reading from an Object
+
+####Nested Objects
+
+####Prototype Chain
+
+####Looping over an Object
+
+###Functions
+```javascript
+function sayHello() {
+  alert("Hello, world!");
+}
+
+sayHello();
+
+function sayHello(msg) {
+  alert(msg);
+}
+
+sayHello("Howdy, y'all!");
+```
+
+####Scope
+```javascript
+function hi() {
+var hello = "hello"
+};
+hi();
+alert(hello);
+```
+
+####Hoisting
+
+####Declaration
+
+####Arguments
+
+####Object-oriented Programming with Functions
+
+####this
+
+####Properties
+
+####Methods
+
+###Loops
+
+####The while Loop
+```javascript
+while (condition) {
+  statement
+}
+```
+```javascript
+var tasksToDo = 3;
+
+while (tasksToDo > 0) {
+  console.log('There are ' + tasksToDo + ' tasks to do');
+  tasksToDo--;
+}
+```
+
+####The do while Loop
+```javascript
+do {
+statement
+} while(expression);
+```
+```javascript
+do {
+console.log('This will print at least once');
+}
+while (false);
+```
+
+####The for Loop
+```javascript
+for (initialization; condition; end-expression ) {
+  statement
+}
+```
+
+```javascript
+for (var i = 0; i < 3; i++) {
+  console.log(i);
+}
+```
+
+####The for in Loop
+```javascript
+var agents = {
+  '005': "Michael Harp",
+  '006': "John Smith",
+  '007': "James Bond"
+};
+
+for (key in agents) {
+  if ('007' === key) {
+    console.log('Bond, ' + agents[key] + 'has been found!');
+  } else {
+    console.log('Standard spy, ' + agents[key] + 'has been found');
+  }
+}
+```
+
+###Jumps
+
+####break
+```javascript
+var tasks = [
+{name: 'Buy milk', complete: false},
+{name: 'Trash', complete: false},
+{name: 'Pay bills', complete: true},
+{name: 'Repairs', complete: false},
+{name: 'Plumber', complete: true}
+];
+var firstComplete;
+for (var i = 0; i < tasks.length; i++) {
+if (tasks[i].complete) {
+firstComplete = tasks[i];
+break;
+}
+}
+console.log(firstComplete);
+```
+
+####continue
+```javascript
+for (var i = 0; i < tasks.length; i++) {
+if (!tasks[i].complete) {
+continue;
+}
+console.log(i, tasks[i].name);
+}
+```
+
+####Labeled Statements
+```javascript
+identifier: statement
+```
+
+####return
+```javascript
+return expression;
+return;
+```
+
+###Exception Handling
+
+####throw
+```javascript
+throw expression;
+```
+
+####try
+```javascript
+try {
+  // code which may throw an error
+} catch (identifier) {
+  // error handling
+} finally {
+  // clean up code
+}
+```
+
+###The Document Object Model
+
+####DOM Level 1
+
+#####Creating DOM Elements and Attributes
+```javascript
+var myDiv = document.createElement("div");
+```
+
+#####insertBefore
+
+#####getElementsByTagName
+
+###DOM Level 2
+
+####getElementById
+
+####hasAttributes
+
+####hasAttribute
+
+###DOM Level 3
+```javascript
+var el = document.getElementById("greeting");
+el.textContent = "Good morning!";
+```
+
+###DOM Level 4
+
+####getElementsByClassName
+
+####Data Attributes
+
+###The style Attribute
+
+###Events
+
+####DOM Events
+
+####Event Propagation
+
+####Event Handlers
+
+#####HTML Attribute
+
+#####addEventListener
+
+#####DOM Element Properties
+
+####Event Context
+
+####Custom Events
+
+###Canvas
+
+####Preparing the Data
+
+####Setting up the Canvas
+
+#####The Most Basic Drawing
+
+#####Text and the Coordinate System
+
+#####A Further Rotation Example
+
+#####Y-axis Numbering
+
+#####“Hello World” Canvas-style
+
+#####Grid Lines
+
+#####Rectangles
+
+#####Arcs
+
+#####Bar Chart Labels
+
+#####Shadows
+
+#####Making Images
+
+#####Summary
+
+
+
+
+
+
+
