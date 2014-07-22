@@ -3,12 +3,9 @@ Reference
 
 Under construction. Always!
 
-##HTML
-
-##CSS
-
-##JavaScript
-
+- HTML
+- CSS
+- JavaScript
 - [Semantic](/semantic.md)
 
 ##References
