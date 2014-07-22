@@ -2,7 +2,9 @@
 
 - [Schema.org](http://schema.org/)
 
-##Portuguese
+##Articles
+
+###Portuguese
 
 - [Microdata API e Schema.org: dando significado ao HTML](http://desenvolvimentoparaweb.com/html/microdata-api-schema-org-significado-html/)
 - [Ganhando visibilidade com schema.org](http://loopinfinito.com.br/2012/05/07/ganhando-visibilidade-com-schema-org/)
