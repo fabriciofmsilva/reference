@@ -3,9 +3,9 @@ Reference
 
 Under construction. Always!
 
-- HTML
-- CSS
-- JavaScript
+- [HTML](/html.md)
+- [CSS](css.md)
+- [JavaScript](javascript.md)
 - [Semantic](/semantic.md)
 
 ##References
