@@ -9,7 +9,7 @@ Under construction. Always!
 
 ##JavaScript
 
-- [Semantic](/fabriciofmsilva/reference/blob/master/semantic.md)
+- [Semantic](fabriciofmsilva/reference/blob/master/semantic.md)
 
 ##References
 
