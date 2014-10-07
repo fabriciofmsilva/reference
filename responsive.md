@@ -1,10 +1,14 @@
 Responsive Web Design
-==========
+==============================
 
-##Articles
+Articles
+------------------------------
 
--[Responsive Web Design](http://alistapart.com/article/responsive-web-design)
+* [Responsive Web Design](http://alistapart.com/article/responsive-web-design)
 
-##Gallery
 
-- [Media Queries](http://mediaqueri.es/)
+
+References
+------------------------------
+
+* [Media Queries](http://mediaqueri.es/)

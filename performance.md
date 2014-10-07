@@ -1,4 +1,4 @@
 Performance
-==========
+==============================
 
-- [Make the Web Faster](https://developers.google.com/speed/)
+* [Make the Web Faster](https://developers.google.com/speed/)
