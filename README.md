@@ -8,9 +8,9 @@ Under construction. Always!
   * Algorithms
   * Big-O Space/Time Analysis
 2. Programming Mastery
+  * Functional Programming
   * Object-Oriented Programming
   * Asynchronous Programming
-  * Functional Programming
   * Recursion
   * Regular Expressions
 3. Front-end
@@ -22,14 +22,16 @@ Under construction. Always!
 4. Back-end
   * [NodeJS](/nodejs.md)
     * Express
-  * [Ruby](ruby.md)
+  * [Ruby](/ruby.md)
     * Ruby on Rails
-5. Data
-  * Relational Databases
-    * Postgres
+  * [PHP](/php.md)
+5. Database
+  * [Relational Databases](/database.md#relational)
     * SQL
-  * MongoDB
-  * NoSQL
+    * SQLite
+    * PostgreSQL
+  * [NoSQL](/database.md#nosql)
+    * MongoDB
 6. Tools
   * [Command Line](/commandline.md)
     * Shell Script
@@ -56,7 +58,7 @@ Under construction. Always!
   * Aesthetic
   * Design
   * Website Desing
-  * Responsive Web Design
+  * [Responsive Web Design](/responsive.md)
   * Tools
     * Photoshop
     * Illustrator

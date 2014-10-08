@@ -17,7 +17,8 @@ Methodology
 * [OOCSS](http://oocss.org/)
 * [Smacss](https://smacss.com/)
 * [DRY CSS](http://www.vanseodesign.com/css/dry-principles/)
-
+* [CSS Guidelines](http://cssguidelin.es/)
+* [csstyle](http://www.csstyle.io/)
 
 
 
@@ -27,7 +28,16 @@ Preprocessors
 * [Less]()
 * [Sass](http://sass-lang.com/)
   * [Compass](http://compass-style.org/)
+  * [Bourbon](http://bourbon.io/)
+  * [Suzy](http://susy.oddbird.net/)
 * [Stylus]()
+
+
+
+Tools
+------------------------------
+
+* [SVG Circus](http://svgcircus.com/)
 
 
 
