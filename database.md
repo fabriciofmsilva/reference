@@ -6,6 +6,8 @@ Databases
 Relational
 ------------------------------
 
+* [SQLite](http://www.sqlite.org/)
+
 
 
 NoSQL
