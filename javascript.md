@@ -1,8 +1,6 @@
 JavaScript
 ==============================
 
-
-
 Libraries
 ------------------------------
 
@@ -13,10 +11,14 @@ Libraries
 
 
 
+
+
 Preprocessors
 ----------
 
 * [CoffeeScript](http://coffeescript.org/)
+
+
 
 
 
@@ -28,11 +30,15 @@ Frameworks
 
 
 
+
+
 Courses
 ------------------------------
 
 * [JavaScript - CodeAcademy](http://www.codecademy.com/tracks/javascript)
 * [jQuery - CodeAcademy](http://www.codecademy.com/tracks/jquery)
+
+
 
 
 
@@ -43,8 +49,12 @@ Books
 
 
 
+
+
 Articles
 ------------------------------
+
+### Learn
 
 * [JavaScript Furtivo | 01 - Apresentação](http://ericdouglas.github.io/2014/04/08/10-javascript-furtivo-apresentacao/)
 * [JavaScript Furtivo | 02 - Olá JavaScript!](http://ericdouglas.github.io/2014/04/08/11-javascript-furtivo-ola-javascript/)
@@ -53,5 +63,17 @@ Articles
 * [JavaScript Furtivo | 05 - O Valor dos Tipos de Operadores - Parte 2](http://ericdouglas.github.io/2014/04/19/14-javascript-furtivo-o-valor-dos-tipos-de-operadores-parte-02/)
 * [JavaScript Furtivo | 06 - Expressões JavaScript](http://ericdouglas.github.io/2014/04/23/15-javascript-furtivo-expressoes-javascript/)
 * [JavaScript Furtivo | 07 - Instruções e Programação Modular no JavaScript - Pt 1](http://ericdouglas.github.io/2014/10/05/instrucoes-e-programacao-modular-parte-1/)
+
+
+
+### Inheritance
+
 * [Herança em JavaScript parte I](http://loopinfinito.com.br/2012/05/04/heranca-em-javascript-parte-1/)
 * [Herança em JavaScript parte II](http://loopinfinito.com.br/2013/02/05/heranca-em-javascript-parte-2/)
+
+
+
+### Namespace
+
+* [The Importance of Namespace (and a JavaScript solution)](http://www.louddog.com/2009/the-importance-of-namespace-and-a-javascript-solution/)
+* [Play Nice With Others: JavaScript Namespace](http://jeffreysambells.com/2006/11/22/play-nice-with-others-javascript-namespace)
