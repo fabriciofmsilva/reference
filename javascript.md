@@ -66,6 +66,24 @@ Articles
 
 
 
+### Basic
+
+* [Functions](http://elegantcode.com/2010/10/22/basic-javascript-part-1-functions/)
+* [Objects](http://elegantcode.com/2010/11/12/basic-javascript-part-2-objects/)
+* [Prototypes](http://elegantcode.com/2010/12/03/basic-javascript-part-3-prototypes/)
+* [Enforcing new on constructor functions](http://elegantcode.com/2010/12/21/basic-javascript-part-4-enforcing-new-on-constructor-functions/)
+* [Hoisting](http://elegantcode.com/2010/12/24/basic-javascript-part-5-hoisting/)
+* [Automatic semicolon insertion](http://elegantcode.com/2011/01/12/basic-javascript-part-6-automatic-semicolon-insertion/)
+* [Static properties and methods](http://elegantcode.com/2011/01/19/basic-javascript-part-7-static-properties-and-methods/)
+* [Namespaces](http://elegantcode.com/2011/01/26/basic-javascript-part-8-namespaces/)
+* [Reusing methods of other objects](http://elegantcode.com/2011/01/31/basic-javascript-part-9-reusing-methods-of-other-objects/)
+* [The module pattern](http://elegantcode.com/2011/02/15/basic-javascript-part-10-the-module-pattern/)
+* [Functional initialization](http://elegantcode.com/2011/03/04/basic-javascript-part-11-functional-initialization/)
+* [Function hoisting](http://elegantcode.com/2011/03/24/basic-javascript-part-12-function-hoisting/)
+* [Javascript prototypical inheritance vs functional inheritance](http://elegantcode.com/2013/03/22/basic-javascript-prototypical-inheritance-vs-functional-inheritance/)
+
+
+
 ### Inheritance
 
 * [Herança em JavaScript parte I](http://loopinfinito.com.br/2012/05/04/heranca-em-javascript-parte-1/)
