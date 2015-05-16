@@ -27,6 +27,8 @@ Courses
 ------------------------------
 
 * [HTML e CSS - CodeAcademy](http://www.codecademy.com/tracks/web)
+* [HTML e CSS - Code School](https://www.codeschool.com/paths/html-css)
+* [HTML e CSS - Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css)
 
 
 
