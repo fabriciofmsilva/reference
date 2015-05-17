@@ -8,6 +8,9 @@ Libraries
 * [UnderscoreJS](http://underscorejs.org/)
 * [Modernizr](http://modernizr.com/)
 * [D3JS](http://d3js.org/)
+* [Bounce.js](http://bouncejs.com/)
+* [Boba.js](http://boba.space150.com/)
+* [tracking.js](http://trackingjs.com/)
 
 
 
@@ -95,3 +98,19 @@ Articles
 
 * [The Importance of Namespace (and a JavaScript solution)](http://www.louddog.com/2009/the-importance-of-namespace-and-a-javascript-solution/)
 * [Play Nice With Others: JavaScript Namespace](http://jeffreysambells.com/2006/11/22/play-nice-with-others-javascript-namespace)
+
+
+Videos
+------------------------------
+* [Desvendando a linguagem JavaScript - #1 - Introdução](http://elegantcode.com/2010/10/22/basic-javascript-part-1-functions/)
+* [Desvendando a linguagem JavaScript - #2 - Number](https://www.youtube.com/watch?v=-4Er-sZoxHM&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc&index=2)
+* [Desvendando a linguagem JavaScript - #3 - String](https://www.youtube.com/watch?v=c3vaqf9x1PQ&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc&index=3)
+* [Desvendando a linguagem JavaScript - #4 - Boolean](https://www.youtube.com/watch?v=oP2ProYre4k&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc&index=4)
+* [Desvendando a linguagem JavaScript - #5 - undefined e null](https://www.youtube.com/watch?v=dhaLnhvOyFc&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc&index=5)
+* [Desvendando a linguagem JavaScript - #6 - Object](https://www.youtube.com/watch?v=A_E-K69j93Q&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc&index=6)
+* [Desvendando a linguagem JavaScript - #7 - Function - Parte 1](https://www.youtube.com/watch?v=OqR0hE-DQn4&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc&index=7)
+* [Desvendando a linguagem JavaScript - #8 - Function - Parte 2](https://www.youtube.com/watch?v=m9uPpURTI0c&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc&index=8)
+* [Desvendando a linguagem JavaScript - #9 - Array](https://www.youtube.com/watch?v=oUx0leLZSbY&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc&index=9)
+* [Desvendando a linguagem JavaScript - #10 - Expressões Regulares](https://www.youtube.com/watch?v=9r48XuOB4DA&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc&index=10)
+* [Desvendando a linguagem JavaScript - #11 - Date](https://www.youtube.com/watch?v=UHMIiIykjRY&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc&index=11)
+

@@ -42,6 +42,8 @@ Under construction. Always!
   * [Text Editors](/texteditor.md)
     * Sublime Text
     * Vim
+    * Atom
+    * Brackets
   * [Debugging](/debugging.md)
     * Chrome DevTools
     * Firebug
